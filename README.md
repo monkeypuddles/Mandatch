@@ -1,6 +1,6 @@
-Mandatch
+Mandatch test
 ========
-Usage
+Usage 
 -----
 
 * Install your OS's golang compiler
