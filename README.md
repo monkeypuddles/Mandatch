@@ -1,4 +1,4 @@
-Mandatch test
+Mandatch 
 ========
 Usage 
 -----
@@ -37,7 +37,7 @@ Configuring your brand spanking new copy of Mandatch is dead simple.
 
 No problems, simply redownload the config from the repository.
 
-
+You can check your json script _[Here](http://jsonlint.com/ "Json Vaildator link")_ if your completely baffled by a bad peice of code.
 Topics
 ------
 
