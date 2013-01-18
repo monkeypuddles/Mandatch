@@ -1,9 +1,9 @@
 {
-	"Nick": 		 "Mandatch",
-	"Realname":	 	 "Mibbit",
+	"Nick": 		 "Mandatch_smp",
+	"Realname":	 	 "Morpheus",
 	"Server": 		 "irc.esper.net:6667",
 	"DefaultTopic":  "Set to Curr topic"
-	"Channels": 	 ["#example","#example2"],
+	"Channels": 	 ["#publiccraft.smp","#publiccraft.dev"],
 	"WebPort": 		 80,
 	"Prefix":		 "? ",
 	"Cooldown": 	 5,
